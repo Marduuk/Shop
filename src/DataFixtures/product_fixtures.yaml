@@ -1,0 +1,21 @@
+App\Entity\Product:
+    p1:
+        title: 'Fallout'
+        price: 1.99
+        currency: USD
+    p2:
+        title: "Dont't Starve"
+        price: 2.99
+        currency: USD
+    p3:
+        title: "Baldur's Gate"
+        price: 3.99
+        currency: USD
+    p4:
+        title: 'Icewind Dale'
+        price: 4.99
+        currency: USD
+    p5:
+        title: 'Bloodborne'
+        price: 5.99
+        currency: USD
